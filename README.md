@@ -22,7 +22,7 @@ CPU metrics were monitored, and alarms were configured to send notifications whe
 
 Security Considerations
 
-Notifications limited to authorized emails
+ . Notifications limited to authorized emails
 
 Results & Outcomes
 
